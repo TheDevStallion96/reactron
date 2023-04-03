@@ -4,7 +4,7 @@
     ".prettierrc": "jsonc",
     ".eslintignore": "ignore"
   },
-  
+
   "eslint.validate": [
     "javascript",
     "javascriptreact",
@@ -26,5 +26,15 @@
     "test/**/__snapshots__": true,
     "package-lock.json": true,
     "*.{css,sass,scss}.d.ts": true
-  }
+  },
+
+  "workbench.colorTheme": "Palenight Operator",
+  "workbench.iconTheme": "eq-material-theme-icons-palenight",
+  "workbench.preferredDarkColorTheme": "Palenight Operator",
+  "explorer.compactFolders": true,
+  "explorer.decorations.badges": true,
+  "explorer.sortOrderLexicographicOptions": "lower",
+  "materialTheme.accent": "Purple",
+  "material-icon-theme.activeIconPack": "angular",
+  "material-icon-theme.folders.theme": "classic"
 }
